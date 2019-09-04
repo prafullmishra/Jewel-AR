@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094547273957",
+    "firebase_url": "https://trialar-94ceb.firebaseio.com",
+    "project_id": "trialar-94ceb",
+    "storage_bucket": "trialar-94ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094547273957:android:29c5c384d421a9d8",
+        "android_client_info": {
+          "package_name": "in.wordmug.trialar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094547273957-kjdqcjlqluh3g9qamkjk9s3apdseikl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8P21db1pWEI1yurRaCqLDd9kq2fY2ohs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
